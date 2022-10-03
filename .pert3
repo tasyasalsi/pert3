@@ -1,19 +1,22 @@
-//menampilkan nama dan NIM
+#menampilkan nama dan NIM
+print('Nama: Natasya Salsi Anugrah')
+print('NIM: 20210801158')
 
-print("Nama: Natasya Salsi Anugrah")
-print("NIM: 20210801158")
-
-//program operator + - x
-
+#program operator + - x
 x = 20
 y = 6
- 
 print('x + y =', x+y)
 print('x - y =', x-y)
 print('x * y =', x*y)
 
-//program penjumlahan matriks 2x2
+#menampilkan matriks 2x2
+A = [[2, 3]]
+B = [[7, 3]]
+print('Matriks: ')
+print('[',A[0][0], ',', B[0][1], ']')
+print('[',A[0][1], ',', B[0][0], ']')
 
+#program penjumlahan matriks 2x2
 A = [[2, 3], [4, 5]]
 B = [[7, 3], [6, 8]]
 print('Hasil: ')
