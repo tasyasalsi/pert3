@@ -8,6 +8,7 @@ y = 6
 print('x + y =', x+y)
 print('x - y =', x-y)
 print('x * y =', x*y)
+print('x / y =', x/y)
 
 #menampilkan matriks 2x2
 A = [[2, 3]]
